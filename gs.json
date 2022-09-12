@@ -82,7 +82,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.ec-together.de\/_\/global\/raw.githubusercontent.com\/SWDEC\/map\/main\/eg.json"
                 }],
