@@ -366,12 +366,6 @@
  "nextlayerid":95,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"openWebsite",
-         "type":"string",
-         "value":"https:\/\/www.youtube.com\/embed\/SbQbadM60qM?autoplay=1"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

@@ -339,12 +339,6 @@
          "id":59,
          "name":"party klo",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/SbQbadM60qM?autoplay=1"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -357,12 +351,6 @@
          "id":60,
          "name":"party klo chill",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/SbQbadM60qM?autoplay=1"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -929,12 +917,6 @@
  "nextlayerid":68,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"openWebsite",
-         "type":"string",
-         "value":"https:\/\/www.youtube.com\/embed\/SbQbadM60qM?autoplay=1"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
