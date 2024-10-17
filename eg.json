@@ -27,12 +27,6 @@
          "id":21,
          "name":"jitsi_eg_sitzecke_spielecke",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel_eg_sitzecke_spielecke"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -45,12 +39,6 @@
          "id":26,
          "name":"jitsi_eg_seminarraum_vorne",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel_eg_seminarraum_vorne"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -63,12 +51,6 @@
          "id":27,
          "name":"jitsi_eg_seminarraum_hinten",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel_eg_seminarraum_hinten"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -81,12 +63,6 @@
          "id":66,
          "name":"speakerscorner",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"shared speakerscornerdobelzeug"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -99,12 +75,6 @@
          "id":29,
          "name":"jitsi_eg_buecherecke",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel-foyer-2"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -117,12 +87,6 @@
          "id":30,
          "name":"jitsi_eg_buero",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel-eg-buero"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -135,12 +99,6 @@
          "id":31,
          "name":"jitsi_eg_sitzecke_sporthalle",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel-eg-sitzecke-sporthalle"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -153,12 +111,6 @@
          "id":32,
          "name":"jitsi_eg_sitzecke",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"dobel-eg-foyer-sitzecke-1"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
